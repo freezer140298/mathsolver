@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26C6DA</color>
+    <color name="colorPrimaryDark">#26C6DA</color>
+    <color name="colorAccent">#26A69A</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="toolbar_icon_disabled">#61ffffff</color>
+    <color name="toolbar_icon_enabled">#ffffffff</color>
+    <color name="image_button_disabled">@android:color/darker_gray</color>
+    <color name="image_button_enabled">@color/colorPrimary</color>
+
+    <color name="tv_title_solution">#C5CAE9</color>
+</resources>

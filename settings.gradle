@@ -1,0 +1,3 @@
+rootProject.name='Math Solver'
+include ':app', 'UIReferenceImplementation', ':MathKeyboard'
+project(':UIReferenceImplementation').dir = new File(settingsDir, 'UIReferenceImplementation')
